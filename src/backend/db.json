@@ -1,110 +1,84 @@
 {
-  "clientes": [
-    {
-      "id": 1,
-      "nome": "Cooperchip CPES"
-    },
-    {
-      "id": 2,
-      "nome": "Portal MEAN"
-    }
-  ],
   "rascunhos": [
     {
       "id": 1,
       "Descricao": "Rascunho 1",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 2,
       "Descricao": "Rascunho 2",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 3,
       "Descricao": "Rascunho 3",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 4,
       "Descricao": "Rascunho 4 - Parte IX",
-      "TagsId": 2
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 5,
       "Descricao": "Rascunho 5",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 6,
       "Descricao": "Rascunho 6",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 9,
       "Descricao": "Rascunho 9",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 10,
       "Descricao": "Rascunho 10",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 11,
       "Descricao": "Rascunho 11",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 12,
       "Descricao": "Rascunho 12",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 13,
       "Descricao": "Rascunho 13",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 14,
       "Descricao": "Rascunho 14",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "id": 15,
       "Descricao": "Rascunho 15 - Parte XV",
-      "TagsId": 1
+      "tags": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
     },
     {
       "Descricao": "Rascunho 16",
-      "TagsId": 1,
+      "tags,": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1",
       "id": 16
     },
     {
       "Descricao": "Rascunho 17 - Parte X",
-      "TagsId": 3,
+      "tags,": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1",
       "id": 17
     },
     {
       "Descricao": "Rascunho 18",
-      "TagsId": 3,
+      "tags,": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1",
       "id": 18
-    },
-    {
-      "tags": [
-        {
-          "id": 1,
-          "descicao": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 1"
-        },
-        {
-          "id": 2,
-          "descicao": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 2"
-        },
-        {
-          "id": 3,
-          "descicao": "Vídeo, video, youtube, Udemy, aulas, json, video-aula, id 3"
-        }
-      ]
     }
   ]
 }
